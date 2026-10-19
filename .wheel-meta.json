@@ -1,0 +1,22 @@
+{
+  "wheel_id": 459,
+  "structure": "umbrella",
+  "slug": "toowoombafencing-102",
+  "project": "fencing-contractors-toowoomba-common-mistakes-1e0da78c070101562",
+  "parent_t1_ref": "toowoombafencing-150",
+  "node_role": "feeder",
+  "money_target": "toowoombafencing.au",
+  "primary_kw": "fencing contractors toowoomba common mistakes",
+  "intended_url": "https://aumedia.neocities.org/fencing-contractors-toowoomba-common-mistakes-1e0da78c070101562/",
+  "tier": "T2",
+  "writeback_nonce": "6b315b2896d0e250",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/toowoombafencing-150/",
+      "anchor": "fencing contractors toowoomba explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
